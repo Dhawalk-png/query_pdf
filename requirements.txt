@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+requests
+PyPDF2
+cassio
+datasets
+langchain
+langchain-community
+openai
+tiktoken
+pydantic
